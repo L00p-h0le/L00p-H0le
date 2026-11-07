@@ -6,7 +6,7 @@ Frontend and Web3 developer. I build React/TypeScript interfaces and write and t
 
 - **Languages:** JavaScript, TypeScript, Solidity, C++, HTML5, CSS3
 - **Frontend:** React, Tailwind CSS, TanStack, GSAP , Motion , Three.js
-- **Web3:** Wagmi, Ethers.js, @solana/web3.js, Foundry, Hardhat, OpenZeppelin
+- **Web3:** Wagmi, Ethers.js, Foundry, Hardhat, OpenZeppelin
 - **Tools:** Git, GitHub , Figma , Claude , Codex
 
 ## Connect
