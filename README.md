@@ -1,6 +1,6 @@
 # Hey, I'm Prabhat 👋
 
-Frontend and Web3 developer. I build React/TypeScript interfaces and write and test Solidity smart contracts with Foundry.
+Frontend and Web3 developer. I build React/TypeScript interfaces and write and test Solidity smart contracts with Foundry. I'm also obsessed with designing beautiful UI's and take full ownership of the frontend from design to build and shipping . I'm confortable working with AI and shipping faster while mainting the production quality.
 
 ## Tech Stack
 
